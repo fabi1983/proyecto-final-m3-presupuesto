@@ -7,10 +7,10 @@
     width: 600px;
     height: 150px;
 }
-.imput1{
+/* .imput1{
 
     padding-left: 30%;
-}
+} */
 #recuadro_de_presupuesto{
     padding-left: 10%;
     padding-top: 1%;
@@ -29,10 +29,10 @@
 
 }
 
-.imput2,.imput3{
+/* .imput2,.imput3{
 
     padding-left: 30%;
-}
+} */
 
 #recuadro_de_calculo{
     padding-left: 10%;
@@ -41,7 +41,9 @@
 
 
 #imprecion1{
-    display: flex;
+    display: inline-block;
+    
+    justify-content: space-between;
     border-radius: 10px;
     border:solid black;
     width: 600px;
@@ -49,9 +51,9 @@
 }
 
 
-.texto1{
+/* .texto1{
     padding-left: 10%;
-}
+} */
 
 #imprecion2{
     display: flex;
