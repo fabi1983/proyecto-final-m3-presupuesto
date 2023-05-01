@@ -1,0 +1,67 @@
+
+#presupuesto{
+    display: flex;
+    background-color: rgb(137, 237, 238);
+    border-radius: 10px;
+    border:solid rgb(19, 120, 122);
+    width: 600px;
+    height: 150px;
+}
+.imput1{
+
+    padding-left: 30%;
+}
+#recuadro_de_presupuesto{
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+
+#calculo{
+    display: flex;
+    margin-top: 4%;
+    background-color: rgb(240, 202, 224);
+    border-radius: 10px;
+    border:solid rgb(239, 113, 186);
+    width: 600px;
+    height: 250px;
+
+
+}
+
+.imput2,.imput3{
+
+    padding-left: 30%;
+}
+
+#recuadro_de_calculo{
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+
+#imprecion1{
+    display: flex;
+    border-radius: 10px;
+    border:solid black;
+    width: 600px;
+    height: 250px;
+}
+
+
+.texto1{
+    padding-left: 10%;
+}
+
+#imprecion2{
+    display: flex;
+    border-radius: 10px;
+    border:solid black;
+    width: 600px;
+    height: 250px;
+}
+
+
+.texto2{
+    padding-left: 10%;
+}
